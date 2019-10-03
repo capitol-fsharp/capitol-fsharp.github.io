@@ -6795,6 +6795,7 @@ label.panel-block {
   transform: rotate(-45deg) scale(1.3); }
 
 .hero-body {
+  background-color: #34333f;
   background-image: url("/capitol-at-dusk.jpg");
   /* Set a specific height */
   height: 800px;
