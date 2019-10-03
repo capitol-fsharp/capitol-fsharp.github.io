@@ -43,8 +43,8 @@ Target.create "Watch" (fun _ ->
 )
 
 // Where to push generated documentation
-let githubLink = "https://github.com/sgoguen/capitol-fsharp.git"
-let publishBranch = "gh-pages"
+let githubLink = "git@github.com:capitol-fsharp/capitol-fsharp.github.io.git"
+let publishBranch = "master"
 let fableRoot   = __SOURCE_DIRECTORY__
 let temp        = fableRoot </> "temp"
 let docsOuput = fableRoot </> "output"
