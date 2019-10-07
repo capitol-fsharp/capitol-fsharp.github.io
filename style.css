@@ -6821,5 +6821,9 @@ div.call-for-speakers {
   div.call-for-speakers img {
     height: 500px; }
 
+div.call-for-speakers-logo {
+  text-align: center;
+  padding-bottom: 30px; }
+
 
 /*# sourceMappingURL=style.css.map*/
